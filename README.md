@@ -21,6 +21,6 @@ At the time of this project's creation I needed to find work. I decided rather t
 * Follow a Test Driven Development process.
 
 ## Tech Stack
-* Python 3.11.*
+* Python 3.
 * Poetry.
 * Beautiful Soup.

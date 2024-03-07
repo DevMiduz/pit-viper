@@ -1,9 +1,3 @@
-<style>
-    p, span, div {
-        font-size: 18px;
-    }
-</style>
-
 # Pit Viper Web Scraper
 
 Why the name Pit Viper? Well...
